@@ -36,7 +36,7 @@ N'étant pas très a l'aise avec la gestion de git, j'ai donc fais plusieurs pus
 
 Vu que mon programme est relativement simple,j'ai pas fais beqaucoup de tests, mais j'ai tout de même effectuer un teste ou j'ai laisser tourner le programme en fond, et tout fonctionne bien.
 
-###lien de mes sources
+### lien de mes sources
 
 https://www.developpez.net/forums/d1225742/dotnet/langages/csharp/faire-chronometre/
 
